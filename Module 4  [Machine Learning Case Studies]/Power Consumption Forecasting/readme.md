@@ -1,5 +1,7 @@
-<h2>Overview</h2>
-<h2>Overview</h2>	 
+<h1>Power Consumption Forecasting </h1>
+
+<h2>Data</h2>	 
+
 Energy Consumption Data
 The data we'll be working with in this notebook is data about household electric power consumption, over the globe. The dataset is originally taken from **[Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set)**, and represents power consumption collected over several years from 2006 to 2010. With such a large dataset, we can aim to predict over long periods of time, over days, weeks or months of time. Predicting energy consumption can be a useful task for a variety of reasons including determining seasonal prices for power consumption and efficiently delivering power to people, according to their predicted usage.
 
