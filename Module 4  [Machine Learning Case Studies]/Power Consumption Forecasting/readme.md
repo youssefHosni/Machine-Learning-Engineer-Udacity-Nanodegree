@@ -8,7 +8,8 @@ The data we'll be working with in this notebook is data about household electric
 Interesting read: An inversely-related project, recently done by Google and DeepMind, uses machine learning to predict the generation of power by wind turbines and efficiently deliver power to the grid. You can read about that research, in this post.
 
 <h2>Notebook outline</h2>	 
-*Loading and exploring the data
+
+* Loading and exploring the data
 * Creating training and test sets of time series
 * Formatting data as JSON files and uploading to S3
 * Instantiating and training a DeepAR estimator
