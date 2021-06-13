@@ -2,7 +2,7 @@
 
 <h2>overview</h2>	 
 
-
+Power consumption forecasting is s a time series data collected periodically, over time. Time series forecasting is the task of predicting future data points, given some historical data. It is commonly used in a variety of tasks from weather forecasting, retail and sales forecasting, stock market prediction, and in behavior prediction (such as predicting the flow of car traffic over a day). There is a lot of time series data out there, and recognizing patterns in that data is an active area of machine learning research!
 <h2>Motivation and the problem</h2>	 
 
 Taking the data of the power consumption from 2007-2009, and then use it to accurately predict the average Global active power usage for the next several months in 2010!
