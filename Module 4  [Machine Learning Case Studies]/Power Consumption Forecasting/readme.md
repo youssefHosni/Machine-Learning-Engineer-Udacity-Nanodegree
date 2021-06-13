@@ -16,6 +16,7 @@ Interesting read: An inversely-related project, recently done by Google and Deep
 
 
 <h2>Notebook outline</h2>	 
+
 * Loading and exploring the data
 * Creating training and test sets of time series
 * Formatting data as JSON files and uploading to S3
