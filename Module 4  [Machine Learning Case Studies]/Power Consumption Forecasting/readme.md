@@ -1,5 +1,10 @@
 <h1>Power Consumption Forecasting </h1>
 
+<h2>overview</h2>	 
+
+<h2>Motivation and the problem</h2>	 
+
+take full years of data, from 2007-2009, and see if I can use it to accurately predict the average Global active power usage for the next several months in 2010!
 <h2>Data</h2>	 
 
 Energy Consumption Data
