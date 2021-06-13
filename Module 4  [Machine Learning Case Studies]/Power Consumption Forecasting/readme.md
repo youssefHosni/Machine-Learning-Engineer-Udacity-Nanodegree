@@ -14,6 +14,12 @@ Interesting read: An inversely-related project, recently done by Google and Deep
 
 <h2> DeepAR model</h2>
 
+DeepAR utilizes a recurrent neural network (RNN), which is designed to accept some sequence of data points as historical input and produce a predicted sequence of points. So, how does this model learn?
+During training, you'll provide a training dataset (made of several time series) to a DeepAR estimator. The estimator looks at all the training time series and tries to identify similarities across them. It trains by randomly sampling training examples from the training time series.
+Each training example consists of a pair of adjacent context and prediction windows of fixed, predefined lengths.
+The context_length parameter controls how far in the past the model can see.
+The prediction_length parameter controls how far in the future predictions can be made.
+You can find more details, in this **[documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar_how-it-works.html)**.
 
 <h2>Notebook outline</h2>	 
 
